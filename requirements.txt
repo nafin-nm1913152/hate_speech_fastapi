@@ -1,6 +1,4 @@
-pip 
 fastapi
 uvicorn[standard]
 tensorflow
 transformers
-numpy
